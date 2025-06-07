@@ -1,0 +1,21 @@
+{
+  "name": "Marco Stamm - Comunicação para Prefeituras",
+  "short_name": "Marco Stamm",
+  "description": "Transforme sua equipe em uma estrutura de comunicação profissional em 30 dias",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6B46C1",
+  "theme_color": "#6B46C1",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
